@@ -1,1 +1,1 @@
-# deploy_tool_test
+# This repo is for testing deploy tool.
